@@ -1,3 +1,4 @@
+Test change to trigger deployment
 # 🗺️ WorkAdventure Map Starter Kit
 
 <a href="https://discord.gg/G6Xh9ZM9aR" target="blank"><img src="https://img.shields.io/discord/821338762134290432.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
